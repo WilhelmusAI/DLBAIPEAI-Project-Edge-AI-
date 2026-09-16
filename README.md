@@ -309,7 +309,7 @@ The application is an academic demonstration of edge AI.
 - [x] Camera input tested
 - [x] Gallery/file input tested
 - [x] On-device benchmark completed
-- [ ] Final 20-image evaluation files added to the repository
+- [x] Final 20-image evaluation files added to the repository
 
 ---
 
